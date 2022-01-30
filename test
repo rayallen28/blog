@@ -1,0 +1,11 @@
+的甲方领导就是领导就发来的数据
+
+
+def split_set(mnist):
+    imgs = []
+    labels = []
+    for img in mnist.images:
+        imgs.append(img)
+    for label in mnist.labels:
+        labels.append(label[0])
+    return imgs, labels
