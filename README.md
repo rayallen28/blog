@@ -4,4 +4,4 @@
 <br>
 [视频文件拼接（OpenCV）](https://github.com/rayallen28/blog/blob/main/%E8%A7%86%E9%A2%91%E6%96%87%E4%BB%B6%E6%8B%BC%E6%8E%A5.md)
 <br>
-[图像左右拼接](https://github.com/rayallen28/blog/blob/main/%E4%B8%A4%E5%BC%A0%E5%9B%BE%E5%83%8F%E5%B7%A6%E5%8F%B3%E6%8B%BC%E6%8E%A5.md)
+[两张图像左右拼接](https://github.com/rayallen28/blog/blob/main/%E4%B8%A4%E5%BC%A0%E5%9B%BE%E5%83%8F%E5%B7%A6%E5%8F%B3%E6%8B%BC%E6%8E%A5.md)
