@@ -12,4 +12,5 @@
 <br>
 [CNOCR示例](https://github.com/rayallen28/blog/blob/main/CNOCR%E7%A4%BA%E4%BE%8B.md)
 <br>
-
+[DDDDOCR示例](https://github.com/rayallen28/blog/blob/main/DDDDOCR%E7%A4%BA%E4%BE%8B.md)
+<br>
