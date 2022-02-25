@@ -20,3 +20,5 @@
 <br>
 [分页爬虫Scrapy](https://github.com/rayallen28/blog/blob/main/%E5%88%86%E9%A1%B5%E7%88%AC%E8%99%ABScrapy.md)
 <br>
+[检测文件编码格式](https://github.com/rayallen28/blog/blob/main/%E6%A3%80%E6%B5%8B%E6%96%87%E4%BB%B6%E7%BC%96%E7%A0%81%E6%A0%BC%E5%BC%8F.md)
+<br>
