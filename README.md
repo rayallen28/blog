@@ -22,3 +22,5 @@
 <br>
 [检测并转换文件编码格式](https://github.com/rayallen28/blog/blob/main/%E6%A3%80%E6%B5%8B%E5%B9%B6%E8%BD%AC%E6%8D%A2%E6%96%87%E4%BB%B6%E7%BC%96%E7%A0%81%E6%A0%BC%E5%BC%8F.md)
 <br>
+[](https://github.com/rayallen28/blog/blob/main/%E4%BD%BF%E7%94%A8numpy%E5%AE%9E%E7%8E%B0%E7%AE%80%E5%8D%95%E4%B8%89%E5%B1%82%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.md)
+<br>
